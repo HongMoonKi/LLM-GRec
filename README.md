@@ -1,4 +1,4 @@
-# LLM-GRec: Enhancing LLM-based Recommendation with Graph Neural Networks
+# LLM-GRec: LLM-GRec: LLM-based Recommendation with Graph Collaborative Filtering
 
 This repository is designed for implementing LLM-GRec.
 
